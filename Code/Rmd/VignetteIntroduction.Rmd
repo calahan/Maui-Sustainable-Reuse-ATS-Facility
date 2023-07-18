@@ -1,0 +1,5 @@
+\centerline{Introduction}
+```{r child = file.path('..', '..', 'Working', 'Vignette', 'Intro1.Rmd'), eval = TRUE, echo=FALSE}
+```
+```{r child = file.path('..', '..', 'Working', 'Vignette', 'Intro2.Rmd'), eval = TRUE, echo=FALSE}
+```

@@ -1,0 +1,21 @@
+\centerline{Description}
+```{r child = file.path('..', '..', 'Working', 'Vignette', 'Body1.Rmd'), eval = TRUE, echo=FALSE}
+```
+```{r child = file.path('..', '..', 'Working', 'Vignette', 'Body2.Rmd'), eval = TRUE, echo=FALSE}
+```
+```{r child = file.path('..', '..', 'Working', 'Vignette', 'Body3.Rmd'), eval = TRUE, echo=FALSE}
+```
+```{r child = file.path('..', '..', 'Working', 'Vignette', 'Body4.Rmd'), eval = TRUE, echo=FALSE}
+```
+```{r child = file.path('..', '..', 'Working', 'Vignette', 'Body5.Rmd'), eval = TRUE, echo=FALSE}
+```
+```{r child = file.path('..', '..', 'Working', 'Vignette', 'Body6.Rmd'), eval = TRUE, echo=FALSE}
+```
+```{r child = file.path('..', '..', 'Working', 'Vignette', 'Body7.Rmd'), eval = TRUE, echo=FALSE}
+```
+\vspace{10pt}
+\newenvironment{Note}{}{\par}
+\begin{Note}
+\footnotesize\centerline{Document built `r Sys.time()`}
+\vspace{10pt}
+\end{Note}

@@ -1,0 +1,6 @@
+rmd_files: ['VignetteHeadA4.Rmd',
+            'VignetteAbstract.Rmd',
+            'VignetteIntroduction.Rmd',
+            'VignetteBody.Rmd',
+            'VignetteReferences.Rmd'
+            ]

@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*.Rproj
+# Drafts, Research, References, Visual Elements: Uncomment these lines after cloning the repository.
+#Drafts
+#Research
+#References
+#Visual Elements

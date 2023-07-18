@@ -1,0 +1,26 @@
+---
+title: '`r vign_title`'
+author: '`r vign_author`'
+output:
+  bookdown::pdf_book:
+    toc: False
+    extra_dependencies:
+      caption: ['font=small', 'justification=justified']
+bibliography: '_References.bib'
+csl: '_Vignette.csl'
+classoption: twocolumn
+linkcolor: blue
+geometry: 'top=13.3mm,left=13.3mm,right=13.3mm,bottom=16.6mm'
+link-citations: true
+papersize: '`r vign_papersize`'
+---
+```{r echo=FALSE}
+source('../R/Parameters.R')
+source('../R/Functions.R')
+fw_len   <- site_def$fw_len
+fw_wid   <- site_def$fw_wid
+mod_len  <- site_def$mod_len
+tank_vol <- site_def$tank_vol
+sig      <- 2
+
+```

@@ -1,0 +1,2 @@
+\centerline{Algal Water Polishing}
+Algal growth converts water, carbon dioxide (CO~2~), nitrogen (N) and phosphorus (P) (as well as other nutrients) into algal biomass. Because biomass by definition contains N (mainly in proteins) and P (mainly in nucleic acids and membranes), algal proliferation is accompanied by rapid removal of these nutrients from the growth medium. Frequent (_e.g._ weekly) harvesting permanently removes nutrients from the system.

@@ -1,0 +1,33 @@
+# Notes
+RPi with Biolinux
+RPi image with Biolinux, custom dashboard, R,
+
+Move the Pi card from node to node, whether laptop, scrubber, or bot. It self-reconfigures if necessary, but you’d probably just have a pocketful of boot images
+
+They form a secure, off-backbone net wherever they are together within BT/wifi range
+
+Introduction
+The Reference ATS Floway is a set of designs for building ATS units for either bioassays or for production use. A bioassay system is long and narrow, for characterizing ATS performance in a given location. A production system is wider and would be used for biomass production or for treatment of compromised waters. Both designs are intended to be easily built and set up using mostly commonly available materials and tools. Each design is available at 3 slopes: 1%, 1.5%, and 2%.
+
+A floway consists ...
+
+List of all ATS designs ever
+Can we get photos of everybody’s ATSs ever? Can go in supplemental and the associated website (HTLM5 DBViewer)
+
+Need - what is perf of HTML5 with ever larger files - need reference databases - how about creating random collections of tables, with size distributions chosen against various distributions, auto-normalize them and create self-profiling HTML5 pages. Heh, a collection of these could form a profile for somebody’s usage of the system, and therefore ID them.
+
+Polycarbonate sheet
+Applying the brake makes a flap that you can bend a certain number of times, perhaps very many. 4’ - 2” = 3’10” of actual width. 46”. Or: 2’ - 2” = 22”: 16 feet of floway per 4x8 sheet.
+    Weld threads directly to surface of polycarbonate. A machine just drives down the floway, replacing threads that are bad.
+    What is the total polycarbonate sheet made? How much per acre would it be to build?
+
+Sources of sheet: http://www.eplastics.com/Lexan_Polycarbonate_Sheet?gclid=CNqs_8CpxsUCFYgRHwodY4YAcA
+
+Glui...
+
+Security
+
+Visual monitoring
+Here we have a redundant network of cellular webcams uploading images - perhaps deltas, to a centralized system. A machine learning project watches constantly, learning to gauge productivity as well as to summarize what is going on in real time. A dashboard and alert system connects to the operators via websites and/or apps.
+Suggested ML products to use: TensorFlow - also, there was a demo of a real-time system that you just point your phone at a scene and it describes what is going on - somethi...
+

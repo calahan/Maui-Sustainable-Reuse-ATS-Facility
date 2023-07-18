@@ -1,0 +1,9 @@
+```{r}
+# fw_len   <- site_def$fw_len
+# fw_wid   <- site_def$fw_wid
+# mod_len  <- site_def$mod_len
+# tank_vol <- site_def$tank_vol
+sig      <- 2
+```
+The MSRP comprises a gently sloped (0.5%), ~`r signif(fw_wid, sig)` x `r FormatUnits(fw_len, sig)`  channel/reservoir tank system for algal cultivation (the floway), described here, and the Reuse Forest, a collection of native plant mesocosms. Figure 1 depicts the overall system along with magnified views of its headworks and tailworks. The floway (Fig. 1A) is constructed from a series of trays fabricated from expanded PVC panels (plastic wood), each ~`r FormatUnits(mod_len, sig)` long. The trays rest upon a wooden trestle supported by concrete dobie blocks. Two dosing siphons are situated at the headworks (Fig. 1B), delivering pulses of R-1 water from a `r FormatUnits(tank_vol, 3)` reservoir into the headworks. The pulses surge along the slope into the tailworks, draining into the reservoir (Fig. 1C). Submersible pumps within the tank recirculate the R-1 water from the reservoir to the headworks.
+\vspace{12 pt}

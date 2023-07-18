@@ -1,0 +1,7 @@
+rmd_files: ['VignetteHead.Rmd',
+            'VignetteAbstract.Rmd',
+            'VignetteIntroduction.Rmd',
+            'VignetteBody.Rmd',
+            'VignetteReferences.Rmd'
+            ]
+delete_merged_file: true

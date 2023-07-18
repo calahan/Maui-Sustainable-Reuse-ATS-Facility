@@ -1,0 +1,4 @@
+\centerline{Abstract}
+```{r child = file.path('..', '..', 'Working', 'Vignette', 'Abstract.Rmd'), eval = TRUE, echo=FALSE}
+```
+\vspace{12pt}
