@@ -1,4 +1,32 @@
 # Notes
+
+## 2023.07.18
+Perhaps there should be a conference with Mark re: ideal data for design of production facility. First, come up with a plan and then have him critique it.
+
+# Old stuff to transfer or reorganize
+
+Notes, Kihei Pilot
+
+
+[2023.02.12]
+Signed the nondisclosure agreement with 
+
+Maalaea Community Wastewater Feasibility Study. 23.01.24. Use this document as a template for feasibility study of ATS components of existing WWTP.
+
+Design and implementation of a generalized laboratory data model. 23.01.24. Use this document for defining CalahanLab and FykorLab. May need to adopt having a secure DB server/cloud internally.
+
+https://www.fossmint.com/open-source-lab-management-systems/
+https://www.g2.com/categories/lims/free
+
+https://www.medfloss.org/node/678
+https://www.medfloss.org/node/1244
+https://www.medfloss.org/node/423
+https://www.medfloss.org/node/206
+
+https://www.senaite.com/features
+
+
+
 RPi with Biolinux
 RPi image with Biolinux, custom dashboard, R,
 
